@@ -1,0 +1,2 @@
+- Calcul du section du câbles MT selon les conditions de l'installation.
+- Calcul de chute de tension partial.
